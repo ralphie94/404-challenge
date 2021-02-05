@@ -27,9 +27,19 @@
 
 ## Overview
 
+This was a challenge from devchallenges.io to code a 404 error page from a given design. It wass good practice for me to translate a design into a webpage and also make it responsive for mobile.
+
 ### Wireframe
 
 <img width="949" alt="Screen Shot 2021-02-05 at 12 39 00 PM" src="https://user-images.githubusercontent.com/46550126/107086825-5f418800-67af-11eb-9052-d599223ae368.png">
+
+### My Solution
+
+<img width="1432" alt="Screen Shot 2021-02-05 at 12 39 26 PM" src="https://user-images.githubusercontent.com/46550126/107086954-96179e00-67af-11eb-946b-857c06805174.png">
+
+### Mobile Solution
+
+<img width="378" alt="Screen Shot 2021-02-05 at 12 40 05 PM" src="https://user-images.githubusercontent.com/46550126/107086980-9b74e880-67af-11eb-9be3-67a566d12921.png">
 
 
 ### Built With
