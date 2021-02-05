@@ -27,7 +27,9 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+### Wireframe
+
+<img width="949" alt="Screen Shot 2021-02-05 at 12 39 00 PM" src="https://user-images.githubusercontent.com/46550126/107086825-5f418800-67af-11eb-9052-d599223ae368.png">
 
 
 ### Built With
