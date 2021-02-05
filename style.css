@@ -35,7 +35,7 @@
     width: 586px;
     height: 190px;
     left: 735px;
-    top: 265px;
+    top: 165px;
     font-family: Space Mono;
     font-style: normal;
     font-weight: bold;
@@ -50,7 +50,7 @@
     width: 381px;
     height: 108px;
     left: 736px;
-    top: 491px;
+    top: 391px;
     font-family: Space Mono;
     font-style: normal;
     font-weight: normal;
@@ -67,7 +67,7 @@
     width: 216px;
     height: 68px;
     left: 740px;
-    top: 663px;
+    top: 563px;
     font-family: Space Mono;
     font-style: normal;
     font-weight: bold;
@@ -77,4 +77,25 @@
     text-transform: uppercase;
     color: #FFFFFF;
     background-color: #333333;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.footer {
+    position: absolute;
+    width: 260px;
+    height: 17px;
+    left: 607px;
+    top: 1024px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 0px;
+    color: #333333;
 }
